@@ -1,6 +1,6 @@
 <div align="center">
 
-### 👋 Hey, I'm Derrek — .NET Software Engineer (Full-Stack & Cloud)<br><br>
+### 👋 Hey, I'm Derrek <br><br> .NET Software Engineer (Full-Stack & Cloud)<br><br>
 
 </div>
 
