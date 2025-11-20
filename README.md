@@ -4,7 +4,7 @@
 
 </div>
 
-* **🔭 Currently building:**<br>  Production-ready .NET APIs and internal dashboards. My latest work includes a **WhatsApp Integration API** (ASP.NET Core 8, Clean Architecture, Policy Based Access Control, SQL Server, JWT Auth, AutoMapper, Serilog) and a **management UI dashboard** using MVC + Tailwind CSS.<br><br>
+* **🔭 Currently building:**<br>  Production-ready .NET APIs and internal dashboards. My latest work includes a **WhatsApp Integration API** (ASP.NET Core 8, Clean Architecture, Dynamic Policy Based Access Control, SQL Server, JWT Auth, AutoMapper, Serilog) and a **management UI dashboard** using MVC + Tailwind CSS.<br><br>
 
 * **🌱 Growing in:**<br>  Advanced **policy-based authorization**, **service-to-service authentication**, pagination design, API security, CI/CD deployments, and building scalable backend architectures. Also exploring **Blazor** and modern frontend patterns.<br><br>
 
