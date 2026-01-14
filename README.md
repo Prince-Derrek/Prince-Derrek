@@ -9,15 +9,15 @@
 
 </div>
 
-* **🔭 Currently building:**<br>  Production-ready .NET APIs and internal dashboards. My latest work includes a **WhatsApp Integration API** (ASP.NET Core 8, Clean Architecture, Dynamic Policy Based Access Control (loaded from db), SQL Server, JWT Auth, AutoMapper, Serilog) and a **management UI dashboard** using MVC + Tailwind CSS.<br><br>
+* **🔭 Currently building:**<br>  Production-ready .NET APIs and internal dashboards. My latest work includes a **WhatsApp Integration API** (ASP.NET Core 8, Clean Architecture, Dynamic Policy Based Access Control (loaded from db), SQL Server, JWT Auth, AutoMapper, Serilog) and a **management UI dashboard** using MVC + Tailwind CSS.<br><br>
 
-* **🌱 Growing in:**<br>  Advanced **policy-based authorization**, **service-to-service authentication**, pagination design, API security, CI/CD deployments, and building scalable backend architectures. Also exploring **Blazor** and modern frontend patterns.<br><br>
+* **🌱 Growing in:**<br>  Advanced **policy-based authorization**, **service-to-service authentication**, pagination design, API security, CI/CD deployments, and building scalable backend architectures. Also exploring **Blazor** and modern frontend patterns.<br><br>
 
-* **🤝 Open to collaborating on:**<br>  .NET backend projects, clean architecture setups, microservice-style APIs, identity/auth systems, internal tools, and developer productivity dashboards.<br><br>
+* **🤝 Open to collaborating on:**<br>  .NET backend projects, clean architecture setups, microservice-style APIs, identity/auth systems, internal tools, and developer productivity dashboards.<br><br>
 
-* **🧩 Looking for guidance with:**<br>  Cloud-native best practices (Azure/AWS), enterprise-level distributed systems, and architecting multi-tenant or high-traffic APIs.<br><br>
+* **🧩 Looking for guidance with:**<br>  Cloud-native best practices (Azure/AWS), enterprise-level distributed systems, and architecting multi-tenant or high-traffic APIs.<br><br>
 
-* **💬 Ask me about:**<br>  ASP.NET Core, Entity Framework Core, SQL Server, Clean Architecture, JWT authentication, role & policy-based authorization, API integrations, and building production workflows from scratch.<br><br>
+* **💬 Ask me about:**<br>  ASP.NET Core, Entity Framework Core, SQL Server, Clean Architecture, JWT authentication, role & policy-based authorization, API integrations, and building production workflows from scratch.<br><br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
@@ -77,10 +77,31 @@ This project demonstrated real-time systems engineering, mapping visualization, 
 
 https://github.com/Prince-Derrek/Car-Rental-Management-System
 
+<br><br>
+---
 
+### 3. **TinySQL: Relational Database Engine from Scratch**
+
+An educational RDBMS engineered from the ground up in C# to demonstrate advanced systems programming concepts.
+This project bypasses standard tools (EF Core, SQLite) to implement the core mechanics of a database engine: tokenization, parsing, execution planning, and memory management.
+
+
+
+#### ⭐ Highlights
+
+* **Systems Programming:** Custom Tokenizer & Recursive Descent Parser to interpret raw SQL.
+* **Data Structures:** Implemented Hash Indexing for **O(1)** Primary Key lookups.
+* **Architecture:** Decoupled engine (`TinyDB.Core`) powering both a **Console REPL** & **ASP.NET Core API**.
+* **CRUD & Relations:** Supports `CREATE`, `INSERT`, `SELECT`, `UPDATE`, `DELETE` and Relational `JOINs`.
+* **Testing:** Robust xUnit test suite verifying parser logic and query execution.
+
+#### 🛠️ Tech Stack
+
+`C#` • `.NET 8` • `Systems Architecture` • `Data Structures` • `ASP.NET Core` • `xUnit` • `Swagger`
+
+#### 🔗 Repository:
+
+[https://github.com/Prince-Derrek/TinySQL-Database-Engine](https://github.com/Prince-Derrek/TinyDatabaseSystem)
 
 <br><br>
-
 <br>
-
-
