@@ -1,6 +1,6 @@
 <div align="center">
   <h2>🖥️ SYSTEM TERMINAL // Derrek.Engine</h2>
-  <p><i>Backend Architecture • Systems Execution • Technical Leadership</i></p>
+  <p><i>.NET Software Engineer | Systems Programming & High-Integrity Architecture | Engineering High-Throughput Systems</i></p>
 </div>
 
 <br>
