@@ -55,3 +55,26 @@
 **A full-stack application for renting and listing vehicles in a peer-to-peer (P2P) marketplace model.** The standout feature is Real-time GPS vehicle tracking, streaming telemetry using SignalR and displayed on an interactive Leaflet.js map.
 * **Tech Stack:** `ASP.NET Core MVC` • `SQL Server` • `EF Core` • `SignalR` • `Leaflet.js`
 * 🔗 **Repository:** [GitHub Link](https://github.com/Prince-Derrek/Car-Rental-Management-System)
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince-Derrek&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00" alt="Derrek's GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Derrek&layout=compact&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- This snake image will 404 error until our GitHub Action runs for the first time -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prince-Derrek/Prince-Derrek/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prince-Derrek/Prince-Derrek/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prince-Derrek/Prince-Derrek/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
