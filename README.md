@@ -2,6 +2,14 @@
   <h2>🖥️ SYSTEM TERMINAL // Derrek.Engine</h2>
   <p><i>.NET Software Engineer | Systems Programming & High-Integrity Architecture | Engineering High-Throughput Systems</i></p>
 </div>
+<div align="center">
+  <a href="mailto:derrekkinyanjui@proton.me">
+    <img src="https://img.shields.io/badge/SECURE_COMMS-derrekkinyanjui@proton.me-000000?style=for-the-badge&logo=protonmail&logoColor=00ff00&labelColor=000000&color=00ff00" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/derrek-kinyanjui-1403412aa">
+    <img src="https://img.shields.io/badge/NETWORK-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00&labelColor=000000&color=00ff00" alt="LinkedIn" />
+  </a>
+</div>
 
 <br>
 
@@ -107,4 +115,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prince-Derrek/Prince-Derrek/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prince-Derrek/Prince-Derrek/output/github-contribution-grid-snake-dark.svg">
   </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prince-Derrek&label=SYSTEM+VISITORS&color=00ff00&style=for-the-badge&base=1000" alt="Visitor Count" />
 </div>
