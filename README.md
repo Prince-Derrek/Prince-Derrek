@@ -1,4 +1,11 @@
 <div align="center">
+  <h2>🖥️ SYSTEM TERMINAL // Derrek.Engine</h2>
+  <p><i>Backend Architecture • Systems Execution • Technical Leadership</i></p>
+</div>
+
+<br>
+
+<div align="center">
   <img src="./assets/01-boot-sequence.svg" alt="Boot Sequence" width="800"/>
 </div>
 
@@ -14,15 +21,24 @@
   <img src="./assets/04-tech-stack.svg" alt="Tech Stack" width="800"/>
 </div>
 
-<br>
-
 <div align="center">
   <img src="./assets/05-projects-dir.svg" alt="Projects Directory" width="800"/>
 </div>
 
+<br>
+
 ---
 
-### `> cat /var/www/projects/Attend-ED/readme.md`
+<div align="center">
+  <h2>📂 ENGINEERING PORTFOLIO</h2>
+  <p><i>Live Deployments, System Architectures, and Private Enterprise APIs</i></p>
+</div>
+
+<br>
+
+### 📱 Attend-ED: Geo-Fenced Mobile Verification
+`> cat /var/www/projects/Attend-ED/readme.md`
+
 **A modern student attendance application focusing on seamless identity verification.**
 * **Core Mechanics:** Integrates vector matching algorithms to securely and accurately verify student identities. Integrates geo-fenced attendance marking to prevent fraud in signing attendances.
 * **Scope:** Full-stack development spanning technical architecture, UI mockups, and mobile application implementation.
@@ -32,7 +48,9 @@
 
 <br>
 
-### `> cat /var/www/projects/SMPS-Exam-System/readme.md`
+### 🎓 SMPS Exam System: High-Volume Booking Engine
+`> cat /var/www/projects/SMPS-Exam-System/readme.md`
+
 **A high-throughput Web-Based University Examination Booking, Payment and Verification System.**
 * **Core Mechanics:** Designed to handle concurrent booking requests with strict transaction integrity and deployment planning.
 * **Scope:** Spearheading an engineering team, focusing on structured execution, backend architecture, and clean project delivery.
@@ -42,7 +60,9 @@
 
 <br>
 
-### `> cat /var/www/projects/WhatsApp-Integration-API/readme.md`
+### 🔒 WhatsApp Integration API: Secure Enterprise Messaging
+`> cat /var/www/projects/WhatsApp-Integration-API/readme.md`
+
 > **Proprietary Project — Source Code Cannot Be Shared (Access Denied)**
 
 **A production-grade messaging integration API designed to power internal systems with secure, auditable WhatsApp communication.** This project demonstrated enterprise-level backend engineering, clean architecture, security hardening, and scalable API design.
@@ -51,10 +71,21 @@
 
 <br>
 
-### `> cat /var/www/projects/Car-Rental-System/readme.md`
+### 🚗 P2P Car Rental System: Real-Time Telemetry
+`> cat /var/www/projects/Car-Rental-System/readme.md`
+
 **A full-stack application for renting and listing vehicles in a peer-to-peer (P2P) marketplace model.** The standout feature is Real-time GPS vehicle tracking, streaming telemetry using SignalR and displayed on an interactive Leaflet.js map.
 * **Tech Stack:** `ASP.NET Core MVC` • `SQL Server` • `EF Core` • `SignalR` • `Leaflet.js`
 * 🔗 **Repository:** [GitHub Link](https://github.com/Prince-Derrek/Car-Rental-Management-System)
+
+<br>
+
+---
+
+<div align="center">
+  <h2>📊 SYSTEM TELEMETRY & METRICS</h2>
+  <p><i>Automated Activity Tracking & Contribution Analysis</i></p>
+</div>
 
 <br>
 
@@ -71,7 +102,6 @@
 <br>
 
 <div align="center">
-  <!-- This snake image will 404 error until our GitHub Action runs for the first time -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prince-Derrek/Prince-Derrek/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prince-Derrek/Prince-Derrek/output/github-contribution-grid-snake.svg">
