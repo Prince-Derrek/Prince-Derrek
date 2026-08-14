@@ -59,13 +59,13 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince-Derrek&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&v=1" alt="Derrek's GitHub Stats" />
+  <img src="https://my-metrics-api.vercel.app/api?username=Prince-Derrek&count_private=true&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&v=2" alt="Derrek's GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prince-Derrek&layout=compact&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&v=1" alt="Top Languages" />
+  <img src="https://my-metrics-api.vercel.app/api/top-langs?username=Prince-Derrek&layout=compact&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&v=2" alt="Top Languages" />
 </div>
 
 <br>
