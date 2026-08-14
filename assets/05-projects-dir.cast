@@ -1,6 +1,6 @@
-{"version": 2, "width": 90, "height": 12, "timestamp": 1, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+{"version": 2, "width": 75, "height": 12, "timestamp": 1, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
 [0.0, "o", "\u001b[2J\u001b[H"]
-[0.5, "o", "derrek@micro1:~$ "]
+[0.5, "o", "derrek@bl4ckn01r:~$ "]
 [1.0, "o", "l"]
 [1.05, "o", "s"]
 [1.1, "o", " "]
@@ -34,5 +34,5 @@
 [2.5300000000000002, "o", "drwxr-xr-x  2 derrek admin 4096 Aug 14 12:40 SMPS-Exam-System\r\n"]
 [2.5500000000000003, "o", "drwxr-x---  2 derrek admin 4096 Aug 14 12:40 WhatsApp-Integration-API\r\n"]
 [2.5700000000000003, "o", "drwxr-xr-x  2 derrek admin 4096 Aug 14 12:40 Car-Rental-System\r\n"]
-[2.5900000000000003, "o", "derrek@micro1:~$ "]
+[2.5900000000000003, "o", "derrek@bl4ckn01r:~$ "]
 [32.59, "o", ""]

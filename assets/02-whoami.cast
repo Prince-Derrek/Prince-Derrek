@@ -1,6 +1,6 @@
-{"version": 2, "width": 90, "height": 20, "timestamp": 1, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+{"version": 2, "width": 75, "height": 20, "timestamp": 1, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
 [0.0, "o", "\u001b[2J\u001b[H"]
-[0.5, "o", "derrek@micro1:~$ "]
+[0.5, "o", "derrek@bl4ckn01r:~$ "]
 [1.0, "o", "c"]
 [1.05, "o", "a"]
 [1.1, "o", "t"]
@@ -52,5 +52,5 @@
 [3.129999999999999, "o", "    \"linkedin\": \"derrek-kinyanjui-1403412aa\"\r\n"]
 [3.149999999999999, "o", "  }\r\n"]
 [3.169999999999999, "o", "}\r\n"]
-[3.189999999999999, "o", "derrek@micro1:~$ "]
+[3.189999999999999, "o", "derrek@bl4ckn01r:~$ "]
 [33.19, "o", ""]

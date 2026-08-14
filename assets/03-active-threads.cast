@@ -1,6 +1,6 @@
-{"version": 2, "width": 90, "height": 18, "timestamp": 1, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+{"version": 2, "width": 75, "height": 18, "timestamp": 1, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
 [0.0, "o", "\u001b[2J\u001b[H"]
-[0.5, "o", "derrek@micro1:~$ "]
+[0.5, "o", "derrek@bl4ckn01r:~$ "]
 [1.0, "o", "s"]
 [1.05, "o", "y"]
 [1.1, "o", "s"]
@@ -43,5 +43,5 @@
 [2.8899999999999992, "o", "     \u251c\u2500 [LEARNING] .NET Aspire: Modular monolith to microservice orchestration.\r\n"]
 [2.9099999999999993, "o", "     \u251c\u2500 [WRITING] Derrek's Lens: Documenting system design and backend architecture.\r\n"]
 [2.9299999999999993, "o", "     \u2514\u2500 [OFFLINE] Physical infrastructure maintenance (Strength conditioning & HVS cycling).\r\n"]
-[2.9499999999999993, "o", "derrek@micro1:~$ "]
+[2.9499999999999993, "o", "derrek@bl4ckn01r:~$ "]
 [32.95, "o", ""]
